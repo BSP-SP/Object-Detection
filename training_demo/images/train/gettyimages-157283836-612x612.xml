@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pic</folder>
+	<filename>gettyimages-157283836-612x612.jpg</filename>
+	<path>/home/bsp/Documents/text book/pic/gettyimages-157283836-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>55</ymin>
+			<xmax>399</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>135</ymin>
+			<xmax>444</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
