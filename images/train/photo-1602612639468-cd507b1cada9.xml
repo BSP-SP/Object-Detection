@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tiger</folder>
+	<filename>photo-1602612639468-cd507b1cada9.jpg</filename>
+	<path>/home/bsp/Documents/text book/pic/tiger/photo-1602612639468-cd507b1cada9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>110</ymin>
+			<xmax>426</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

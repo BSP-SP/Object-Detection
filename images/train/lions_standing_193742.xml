@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>lions_standing_193742.jpg</filename>
+	<path>/home/bsp/Documents/text book/pic/lion/lions_standing_193742.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>29</ymin>
+			<xmax>395</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>192</ymin>
+			<xmax>268</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
